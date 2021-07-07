@@ -1,0 +1,52 @@
+ [  
+        {
+            "nombre":"Anillo de priedra malaquita",
+            "avartar":"img/AnilloPiedroteVerde.jpg",
+            "detalle":"Anillo de plata 95, con una piedra malaquita de 10x10mm"
+        },{
+            "nombre":"Anillo de ajustable",
+            "avartar":"img/Anillo.jpg",
+            "detalle":"Anillo de plata 95"
+        },{
+            "nombre":"Anillo de cruz",
+            "avartar":"img/AnilloCrus",
+            "detalle":"Anillo de plata 95"
+        },{
+            "nombre":"Anillo de Rosa",
+            "avartar":"img/AnilloFlor",
+            "detalle":"Anillo de plata 95 en rosa"
+        },{
+            "nombre":"Anillo de hijos",
+            "avartar":"img/AnilloHijoHija.jpg",
+            "detalle":"Anillo plata 95, con calado de niños"
+        },{
+            "nombre":"Anillo de corazon",
+            "avartar":"img/AnilloHoja.jpg",
+            "detalle":"Anillo de plata 95, con relleno de circon blanco"
+        },{
+            "nombre":"Anillo de hojas",
+            "avartar":"img/AnilloHojas.jpg",
+            "detalle":"Anillo de plata 95, con circon blanco en cada hoja"
+        },{
+            "nombre":"Anillo malla de Huevo",
+            "avartar":"img/AnilloHuevo.jpg",
+            "detalle":"Anillo de plata 95, con detalle de amatista"
+        },{
+            "nombre":"Anillo adaptable luna y estrella",
+            "avartar":"img/AnilloLunaSols.jpg",
+            "detalle":"Anillo de plata 95, con un circon en la estrella"
+        },{
+            "nombre":"Anillo solitario con topacio",
+            "avartar":"img/AnilloPiedraAmarilla.jpg",
+            "detalle":"Anillo solitario de plata 95, con un topacio"
+        },{
+            "nombre":"Anillo lady",
+            "avartar":"img/AnilloPiedraAmarillaDos.jpg",
+            "detalle":"Anillo de plata 95, con una piedra topacio rodeado con circon blanco"
+        },{
+            "nombre":"Anillo lapislázuli",
+            "avartar":"img/AnilloPiedraAzulDos.jpg",
+            "detalle":"Anillo plata 95, con piedra lapislázuli"
+        }
+    ]
+    
