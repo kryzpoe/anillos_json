@@ -19,34 +19,6 @@
         "nombre":"Anillo de hijos",
         "avartar":"https://i.imgur.com/FxAckwd.jpg",
         "detalle":"Anillo plata 95, con calado de niños"
-    },{
-        "nombre":"Anillo de corazon",
-        "avartar":"https://i.imgur.com/WmLuOXV.jpg",
-        "detalle":"Anillo de plata 95, con relleno de circon blanco"
-    },{
-        "nombre":"Anillo de hojas",
-        "avartar":"https://i.imgur.com/q3wlaKw.jpg",
-        "detalle":"Anillo de plata 95, con circon blanco en cada hoja"
-    },{
-        "nombre":"Anillo malla de Huevo",
-        "avartar":"https://i.imgur.com/x9pf1iC.jpg",
-        "detalle":"Anillo de plata 95, con detalle de amatista"
-    },{
-        "nombre":"Anillo adaptable luna y estrella",
-        "avartar":"https://i.imgur.com/k0lWVFj.jpg",
-        "detalle":"Anillo de plata 95, con un circon en la estrella"
-    },{
-        "nombre":"Anillo solitario con topacio",
-        "avartar":"https://i.imgur.com/Z1UR4Eg.jpg",
-        "detalle":"Anillo solitario de plata 95, con un topacio"
-    },{
-        "nombre":"Anillo lady",
-        "avartar":"https://i.imgur.com/jYUe5MV.jpg",
-        "detalle":"Anillo de plata 95, con una piedra topacio rodeado con circon blanco"
-    },{
-        "nombre":"Anillo lapislázuli",
-        "avartar":"https://i.imgur.com/5NsVO98.jpg",
-        "detalle":"Anillo plata 95, con piedra lapislázuli"
-    }
+      }
     ]
 }
