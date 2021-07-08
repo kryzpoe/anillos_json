@@ -2,23 +2,23 @@
     "anillos":[ {
         "nombre":"Anillo de priedra malaquita",
         "avartar":"https://i.imgur.com/oHbwpeR.jpg",
-        "detalle":"Anillo de plata 95, con una piedra malaquita de 10x10mm"
+        "detalle":"Anillo de plata 950, con una piedra malaquita de 10x10mm"
     },{
         "nombre":"Anillo de ajustable",
         "avartar":"https://i.imgur.com/QZ04YC0.jpg",
-        "detalle":"Anillo de plata 95"
+        "detalle":"Anillo de plata 950"
     },{
         "nombre":"Anillo de cruz",
         "avartar":"https://i.imgur.com/Im7eSyL.jpg",
-        "detalle":"Anillo de plata 95"
+        "detalle":"Anillo de plata 950"
     },{
         "nombre":"Anillo de Rosa",
         "avartar":"https://i.imgur.com/EUVVuYP.jpg",
-        "detalle":"Anillo de plata 95 en rosa"
+        "detalle":"Anillo de plata 950 en rosa"
     },{
         "nombre":"Anillo de hijos",
         "avartar":"https://i.imgur.com/FxAckwd.jpg",
-        "detalle":"Anillo plata 95, con calado de niños"
+        "detalle":"Anillo plata 950, con calado de niños"
       }
     ]
 }
